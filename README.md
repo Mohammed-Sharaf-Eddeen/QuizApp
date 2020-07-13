@@ -12,7 +12,8 @@ Pre-requisites
 - Android Build Tools v29.0.3
 - Android Minumum SDK v19
 - Kotlin v1.3.61
-- gradle v3.6.2
+- Android Gradle Plugin v3.6.2
+- Gradle v5.6.4
 
 
 Getting Started
