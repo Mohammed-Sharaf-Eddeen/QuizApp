@@ -21,7 +21,14 @@ Getting Started
 To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
 
 
-
 License
 -------
 Public Domain Software
+
+
+GUI
+-------
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63277851/88391812-2ca7e300-cdbb-11ea-93cf-2ebd2afe660e.jpg" width="280" title="GUI">
+  <img src="https://user-images.githubusercontent.com/63277851/88390212-3845da80-cdb8-11ea-8319-f45ae013591f.jpg" width="280" title="GUI">
+</p>
